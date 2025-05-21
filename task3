@@ -1,0 +1,20 @@
+# Task 3 - JavaScript Interactivity
+
+## Description
+This folder contains my submission for **Task 3** of the Apex Planet Web Development Internship.
+
+## Video Submission
+The video file `InShot_20250521_174122168.mp4` shows the working demo of this task.
+
+## Features Implemented
+- JavaScript interactivity and DOM manipulation
+- Responsive design
+- Functional event handling
+
+## Technologies Used
+- HTML
+- CSS
+- JavaScript
+
+## How to Run
+Just open the `index.html` file in any web browser to see the project in action.
