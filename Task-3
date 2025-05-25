@@ -1,0 +1,45 @@
+Apex Planet Web Development Task 3
+This repository contains my submission for Task 3 of the Apex Planet Web Development Internship (May 2025).
+Description
+
+In this task, I developed interactive web components using HTML, CSS, and JavaScript to demonstrate intermediate web development skills, particularly DOM manipulation and event handling.
+
+The video file InShot_20250505_174935489.mp4 showcases the functionality and working of the project.
+
+Projects Included
+
+1. To-Do List Application
+
+Add, delete, and mark tasks as complete.
+
+Tasks are stored in browser local storage.
+
+
+
+2. Image Gallery
+
+Displays thumbnails and allows switching main image on click.
+
+All rendering handled dynamically via JavaScript.
+Technologies Used
+
+HTML5
+
+CSS3
+
+JavaScript (Vanilla)
+
+DOM Manipulation
+
+Event Listeners
+
+Local Storage
+
+
+How to View
+
+Click on the video file in the repository to watch the demo of the project in action.
+
+Submitted by
+ERLA HEMALATHA
+Apex Planet Internship – May 2025
